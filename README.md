@@ -1,4 +1,4 @@
 # fan-Animation
 一个用java实现的风扇实现，能够使用按钮对风扇进行转速、方向以及开关的控制；通过鼠标控制风扇的停止和开始；绑定风扇，使得当拖动窗口时，风扇始终居中
 
-!
+! [image text](https://github.com/abao1041/fan-/blob/main/images/image.png)
